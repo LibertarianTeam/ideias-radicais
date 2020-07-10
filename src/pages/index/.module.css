@@ -1,0 +1,11 @@
+.color {
+  color: red;
+}
+
+.size {
+  font-size: 80px;
+}
+
+.title {
+  composes: color size;
+}
