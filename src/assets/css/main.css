@@ -4,3 +4,16 @@
 
   box-sizing: border-box;
 }
+
+:root {
+  --bg-primary: #18252e;
+  --bg-secondary: #fff;
+  --bg-tertiary: #3a464f;
+
+  --text-primary: #fff;
+  --text-secondary: #18252e;
+  --text-tertiary: #e2b44d;
+
+  --btn-primary: #fffe63;
+  --btn-secondary: #32373c;
+}
